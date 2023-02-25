@@ -17,7 +17,7 @@ ___
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Descripcion: <div id='descipcion' />
+### Descripcion: <div id='descripcion' />
 Proyecto que busca mostrar ejemplos de logica con condicionales, ciclos y estructuras de datos en Python
 
 ### Programado por: <div id='programacion' />
@@ -27,8 +27,9 @@ Proyecto que busca mostrar ejemplos de logica con condicionales, ciclos y estruc
 
 ### Ejecutar: <div id='ejecutar' />
 
-`Phyton Ejemplo1.py`
-`Python Ejemplo2.py`
+[`Phyton Ejemplo1.py`](https://github.com/VictorSuarezAg/pythonSabado2/blob/main/ejemplo1.py)
+
+[`Python Ejemplo2.py`](https://github.com/VictorSuarezAg/pythonSabado2/blob/main/ejemplo2.py)
 
 ### Enlaces Relacionados: <div id='enlaces' />
 [Google](http://www.google.com)
