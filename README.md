@@ -27,8 +27,9 @@ Proyecto que busca mostrar ejemplos de logica con condicionales, ciclos y estruc
 
 ### Ejecutar: <div id='ejecutar' />
 
-`Phyton Ejemplo1.py`
-`Python Ejemplo2.py`
+[`Phyton Ejemplo1.py`](https://github.com/VictorSuarezAg/pythonSabado2/blob/main/ejemplo1.py)
+
+[`Python Ejemplo2.py`](https://github.com/VictorSuarezAg/pythonSabado2/blob/main/ejemplo2.py)
 
 ### Enlaces Relacionados: <div id='enlaces' />
 [Google](http://www.google.com)
