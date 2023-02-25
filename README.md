@@ -1,4 +1,14 @@
 # Ejercicios de lógica con Phyton
+___
+
+## index
+
+* [Descripción](#descripcion)
+* [Programación](#programacion)
+* [Ejecutar](#ejecutar)
+* [Enlaces Relacionados](#enlaces)
+___
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/89227996/221367851-e99872e5-bb92-434f-a5da-51cd42071116.jpg" width="300" height="350">
 </p>
@@ -7,18 +17,18 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Descripcion:
+### Descripcion: <div id='descipcion' />
 Proyecto que busca mostrar ejemplos de logica con condicionales, ciclos y estructuras de datos en Python
 
-### Programado por:
+### Programado por: <div id='programacion' />
 ***Victor Suárez***
 
 ***
 
-### Ejecutar:
+### Ejecutar: <div id='ejecutar' />
 
 `Phyton Ejemplo1.py`
 `Python Ejemplo2.py`
 
-### Enlaces Relacionados:
+### Enlaces Relacionados: <div id='enlaces' />
 [Google](http://www.google.com)
