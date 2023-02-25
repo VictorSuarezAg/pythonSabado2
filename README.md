@@ -17,7 +17,7 @@ ___
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Descripcion: <div id='descipcion' />
+### Descripcion: <div id='descripcion' />
 Proyecto que busca mostrar ejemplos de logica con condicionales, ciclos y estructuras de datos en Python
 
 ### Programado por: <div id='programacion' />
