@@ -31,5 +31,7 @@ Proyecto que busca mostrar ejemplos de logica con condicionales, ciclos y estruc
 
 [`Python Ejemplo2.py`](https://github.com/VictorSuarezAg/pythonSabado2/blob/main/ejemplo2.py)
 
+[`Python Ejemplo3.py`](https://github.com/VictorSuarezAg/pythonSabado2/blob/main/ejemplo3.py)
+
 ### Enlaces Relacionados: <div id='enlaces' />
 [Google](http://www.google.com)
